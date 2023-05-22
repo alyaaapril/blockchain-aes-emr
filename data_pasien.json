@@ -1,0 +1,81 @@
+[
+    {
+        "patient_id": "12345",
+        "name": "John Doe",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-22",
+            "nama_lengkap": "John Doe",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1990-01-01",
+            "alamat": "Jl. Contoh No. 123",
+            "nomor_telepon": "08123456789",
+            "email": "johndoe@example.com",
+            "keluhan": "Demam tinggi dan batuk",
+            "riwayat_penyakit": ["Asma", "Hipertensi"],
+            "riwayat_alergi": ["Alergi makanan", "Alergi obat"],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada paru-paru, Pemeriksaan ultrasonografi menunjukkan organ dalam dalam kondisi normal",
+            "terapi": ["Diberikan antibiotik selama 7 hari", "Dianjurkan istirahat dan konsumsi makanan bergizi"],
+            "catatan": "Pasien menunjukkan perbaikan setelah menjalani terapi antibiotik"
+        }
+    },
+
+    {
+        "patient_id": "67890",
+        "name": "Jane Smith",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-23",
+            "nama_lengkap": "Jane Smith",
+            "jenis_kelamin": "Perempuan",
+            "tanggal_lahir": "1985-03-15",
+            "alamat": "Jl. Contoh No. 456",
+            "nomor_telepon": "08123456788",
+            "email": "janesmith@example.com",
+            "keluhan": "Sakit perut dan mual",
+            "riwayat_penyakit": ["Gastritis", "Maag kronis"],
+            "riwayat_alergi": ["Alergi obat"],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada perut. Pemeriksaan ultrasonografi menunjukkan adanya tukak lambung",
+            "terapi": ["Diberikan antasida selama 2 minggu", "Dianjurkan diet rendah asam dan tinggi serat"],
+            "catatan": "Pasien perlu menjaga pola makan untuk mengurangi gejala gastritis"
+        }
+    },
+
+    {
+        "patient_id": "54321",
+        "name": "Sarah Johnson",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-24",
+            "nama_lengkap": "Sarah Johnson",
+            "jenis_kelamin": "Perempuan",
+            "tanggal_lahir": "1995-07-10",
+            "alamat": "Jl. Contoh No. 789",
+            "nomor_telepon": "08123456787",
+            "email": "sarahjohnson@example.com",
+            "keluhan": "Sesak napas dan nyeri dada",
+            "riwayat_penyakit": ["Asthma"],
+            "riwayat_alergi": ["Alergi debu"],
+            "hasil_pemeriksaan": "Ditemukan kelainan pada paru-paru, perlu tindakan lebih lanjut",
+            "terapi": ["Diberikan obat bronkodilator", "Dianjurkan istirahat dan hindari pemicu"],
+            "catatan": "Pasien perlu melakukan tindak lanjut dengan spesialis paru-paru"
+        }
+    },
+    
+    {
+        "patient_id": "98765",
+        "name": "Michael Anderson",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-25",
+            "nama_lengkap": "Michael Anderson",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1982-09-18",
+            "alamat": "Jl. Contoh No. 987",
+            "nomor_telepon": "08123456786",
+            "email": "michaelanderson@example.com",
+            "keluhan": "Sakit kepala dan pusing",
+            "riwayat_penyakit": [],
+            "riwayat_alergi": [],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada kepala dan saraf",
+            "terapi": ["Dianjurkan minum banyak air", "Istirahat yang cukup"],
+            "catatan": "Pasien perlu menghindari faktor pemicu sakit kepala"
+        }
+    }
+]

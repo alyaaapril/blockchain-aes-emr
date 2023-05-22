@@ -1,0 +1,117 @@
+[
+    {
+        "patient_id": "12345",
+        "name": "John Doe",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-22",
+            "nama_lengkap": "John Doe",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1990-01-01",
+            "alamat": "Jl. Contoh No. 123",
+            "nomor_telepon": "08123456789",
+            "email": "johndoe@example.com",
+            "keluhan": "Demam tinggi dan batuk",
+            "riwayat_penyakit": [
+                "Asma",
+                "Hipertensi"
+            ],
+            "riwayat_alergi": [
+                "Alergi makanan",
+                "Alergi obat"
+            ],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada paru-paru, Pemeriksaan ultrasonografi menunjukkan organ dalam dalam kondisi normal",
+            "terapi": [
+                "Diberikan antibiotik selama 7 hari",
+                "Dianjurkan istirahat dan konsumsi makanan bergizi"
+            ],
+            "catatan": "Pasien menunjukkan perbaikan setelah menjalani terapi antibiotik"
+        },
+        "timestamp": "2023-05-22 23:04:56",
+        "previous_hash": null,
+        "hash": "b2594f91b8e16933bb4c64d03f15bfa5dfb19960cf540637a503cccd73a29828"
+    },
+    {
+        "patient_id": "67890",
+        "name": "Jane Smith",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-23",
+            "nama_lengkap": "Jane Smith",
+            "jenis_kelamin": "Perempuan",
+            "tanggal_lahir": "1985-03-15",
+            "alamat": "Jl. Contoh No. 456",
+            "nomor_telepon": "08123456788",
+            "email": "janesmith@example.com",
+            "keluhan": "Sakit perut dan mual",
+            "riwayat_penyakit": [
+                "Gastritis",
+                "Maag kronis"
+            ],
+            "riwayat_alergi": [
+                "Alergi obat"
+            ],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada perut. Pemeriksaan ultrasonografi menunjukkan adanya tukak lambung",
+            "terapi": [
+                "Diberikan antasida selama 2 minggu",
+                "Dianjurkan diet rendah asam dan tinggi serat"
+            ],
+            "catatan": "Pasien perlu menjaga pola makan untuk mengurangi gejala gastritis"
+        },
+        "timestamp": "2023-05-22 23:04:56",
+        "previous_hash": "a46850f32787382c11bad1fff09f8fa487b36a9c7c2c9bf17d7f464584d067ef",
+        "hash": "24129698766ca14a17dde61231347d6b197b2e7262842f2a21c6564cc956abde"
+    },
+    {
+        "patient_id": "54321",
+        "name": "Sarah Johnson",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-24",
+            "nama_lengkap": "Sarah Johnson",
+            "jenis_kelamin": "Perempuan",
+            "tanggal_lahir": "1995-07-10",
+            "alamat": "Jl. Contoh No. 789",
+            "nomor_telepon": "08123456787",
+            "email": "sarahjohnson@example.com",
+            "keluhan": "Sesak napas dan nyeri dada",
+            "riwayat_penyakit": [
+                "Asthma"
+            ],
+            "riwayat_alergi": [
+                "Alergi debu"
+            ],
+            "hasil_pemeriksaan": "Ditemukan kelainan pada paru-paru, perlu tindakan lebih lanjut",
+            "terapi": [
+                "Diberikan obat bronkodilator",
+                "Dianjurkan istirahat dan hindari pemicu"
+            ],
+            "catatan": "Pasien perlu melakukan tindak lanjut dengan spesialis paru-paru"
+        },
+        "timestamp": "2023-05-22 23:04:56",
+        "previous_hash": "a4992e11a438889170c48ef8835bd5190eb7f804425a739e442e78ecb95cd37c",
+        "hash": "54c9d67209902690b9d27092388b94f8bb9cf3f605632a82929409808c29b040"
+    },
+    {
+        "patient_id": "98765",
+        "name": "Michael Anderson",
+        "medical_data": {
+            "tanggal_pemeriksaan": "2023-05-25",
+            "nama_lengkap": "Michael Anderson",
+            "jenis_kelamin": "Laki-laki",
+            "tanggal_lahir": "1982-09-18",
+            "alamat": "Jl. Contoh No. 987",
+            "nomor_telepon": "08123456786",
+            "email": "michaelanderson@example.com",
+            "keluhan": "Sakit kepala dan pusing",
+            "riwayat_penyakit": [],
+            "riwayat_alergi": [],
+            "hasil_pemeriksaan": "Tidak ditemukan kelainan pada kepala dan saraf",
+            "terapi": [
+                "Dianjurkan minum banyak air",
+                "Istirahat yang cukup"
+            ],
+            "catatan": "Pasien perlu menghindari faktor pemicu sakit kepala"
+        },
+        "timestamp": "2023-05-22 23:04:56",
+        "previous_hash": "8be24bdf1664c84c5b3c7cddb3603095832d33c73f4c068cbef57c8b5df62c35",
+        "hash": "c5846dedb721b225c260e79bdbbf8e565855bc4e427533193f22df59067e8bd4"
+    }
+]
